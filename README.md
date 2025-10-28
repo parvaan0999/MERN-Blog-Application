@@ -8,7 +8,7 @@ A full-featured blogging platform built with the MERN stack (MongoDB, Express, R
 -  Role-based access control (User/Admin)
 -  Rich text editor for creating posts
 -  Create, edit, and delete blog posts
--  Comment system
+-  Comment system,
 -  Like and save posts
 -  Search functionality , filtering and pagination
 -  User profiles
