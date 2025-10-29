@@ -14,7 +14,7 @@ A full-featured blogging platform built with the MERN stack (MongoDB, Express, R
 -  User profiles
 -  Admin dashboard
 -  Responsive design
--  Beautiful UI with Tailwind CSS
+-  Beautiful UI with Tailwind CSS,
 -  Cloudinary integration for image uploads
 
 ## Tech Stack
